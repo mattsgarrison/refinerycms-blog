@@ -2,7 +2,7 @@ source "http://rubygems.org"
 
 gemspec
 
-gem 'refinerycms', '>= 2.0.0'
+gem 'refinerycms'#, '>= 2.0.0'
 
 group :development, :test do
   require 'rbconfig'
